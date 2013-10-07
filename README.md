@@ -1,7 +1,7 @@
 AVL
 ===
 
-a simple and clear implementation of AVL tree
+a simple, clear, clean and efficient implementation of AVL tree with C.
 
 the node of avl is simple, which make it hard for general usage.
 
