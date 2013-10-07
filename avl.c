@@ -1,5 +1,5 @@
-#include <stdio.h>
-//#include <stdbool.h>
+#include <stdio.h>    /// only use of NULL
+#include <stdbool.h>  /// only for type bool, true and false
 #include "avl.h"
 
 static void __left_rotate(struct avl_node *n, struct avl_root *root)
